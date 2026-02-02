@@ -3,5 +3,6 @@ numpy
 matplotlib
 seaborn
 scipy
-altair<5
+altair
 streamlit
+
