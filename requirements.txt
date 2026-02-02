@@ -3,4 +3,5 @@ numpy
 matplotlib
 seaborn
 scipy
+altair<5
 streamlit
