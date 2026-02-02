@@ -1,6 +1,6 @@
 # iGaming Affiliate Performance & Traffic Integrity Pipeline
 
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://igaming-affiliate-performance-njngbpy4rpvdfrh6tnpyht.streamlit.app/)
 
 ---
 
